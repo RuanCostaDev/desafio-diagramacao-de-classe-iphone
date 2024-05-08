@@ -1,6 +1,9 @@
-## Getting Started
+## Desafio proposto: Diagramação de classes Iphone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse repositório foi criado com o intuito de criar um diagrama UML para por em prática os conhecimentos adquiridos de análise de negócio, requisitos e programação orientada a objeto durante o Curso Java Back-end.
+Abaixo deixo o driagrama criado para esse desafio:
+
+![Diagrama UML da classe Iphone e suas relações.](./diagrama_iphone_UML.png)
 
 ## Folder Structure
 
